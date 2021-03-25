@@ -1,0 +1,7 @@
+export const LOAD_CONTACT = "LOAD_CONTACT";
+export const GET_CONTACTS = "GET_CONTACTS";
+export const GET_CONTACT = "GET_CONTACT";
+export const FAIL_CONTACT = "FAIL_CONTACT";
+export const POST_CONTACT = "POSTCONTACT";
+export const DELETE_CONTACTS = "DELETE_CONTACTS";
+export const EDIT_CONTACT = "EDIT_CONTACT";

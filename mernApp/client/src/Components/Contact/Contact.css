@@ -1,0 +1,10 @@
+
+.cardList{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    width: 300px;
+    margin: 2% 40%;
+}
+
